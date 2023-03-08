@@ -25,3 +25,34 @@ _2010-2015_
 -   [Git & GitHub Crash Course](https://www.udemy.com/course/git-and-github-crash-course-creating-a-repository-from-scratch/)
 -   [React - The Guide (incl Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 -   [30 Days of React challenge](https://github.com/Asabeneh/30-Days-Of-React)
+
+### **Portfolio**
+
+-   [World Countries Data (final project 30DaysOfJS free github course)](https://sema92m.github.io/30-days-of-JS/)
+-   [Easy weather app using API](https://sema92m.github.io/weather-app/)
+-   [Stupid game with my friends in the main role (+Audio)](https://sema92m.github.io/suffer/)
+-   [Very easy cat-image generator using API](https://sema92m.github.io/cats-generation/)
+
+### **Tools & Technologies**
+
+-   JS(ES6)
+-   React(basics)
+-   HTML & CSS
+-   Git
+-   Tailwind/Bootstrap
+### **Languages**
+
+-   Polish - advanced
+-   English - advanced
+-   Russian - native
+
+### **Hobbies**
+
+-   Sport - gym, mounting
+-   Automotive - motorcycles
+
+### **Contact:**
+
+-   tel/whatsApp: +48 693459196
+-   email: sema92m@wp.pl
+-   discord-rs-school: Simon (@Sema92m)
